@@ -1,0 +1,27 @@
+html *
+{
+    th {background-color: thistle; border: black solid 1px; text-align: left;
+        padding-left: 10px; padding-right: 10px; vertical-align: top;}
+    td {background-color: white; border: black solid 1pt; padding-left: 10px;
+        padding-right: 10px; vertical-align: top;}
+    table {width: 90%; border: 0px; cellpadding: 0px;}
+}
+#INPUT 
+{
+    border: black solid 1px;
+    color: black;
+    font-family: monospace;
+    height: 1in;
+    overflow: auto;
+    /* padding: 0.5em; */
+    width: 90%;
+    background-color: #FF8000; 
+}
+body { background-color: #F3E2A9; }
+#OUTPUT 
+{
+	border: black solid 1px;
+    color: black;
+    background-color: #FF8000; 
+    width: 90%;
+}
